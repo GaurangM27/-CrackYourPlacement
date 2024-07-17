@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
