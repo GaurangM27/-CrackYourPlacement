@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
