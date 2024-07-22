@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## String
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
