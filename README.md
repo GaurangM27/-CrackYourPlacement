@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
