@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 <!---LeetCode Topics End-->
