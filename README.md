@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
 |  |
 | ------- |
