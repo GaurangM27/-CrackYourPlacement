@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
