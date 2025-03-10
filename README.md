@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
