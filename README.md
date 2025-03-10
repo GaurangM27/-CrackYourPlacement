@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
