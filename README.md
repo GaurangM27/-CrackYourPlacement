@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
