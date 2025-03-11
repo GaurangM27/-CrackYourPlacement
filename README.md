@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/GaurangM27/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
