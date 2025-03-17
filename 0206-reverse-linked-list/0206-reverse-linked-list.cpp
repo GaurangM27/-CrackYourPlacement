@@ -10,14 +10,17 @@
  */
 class Solution {
 public:
+ListNode* reverseLink(ListNode* head,ListNode* prev){
+    if(head==NULL)
+    return prev;
+    ListNode* ne=head->next;
+    head->next=prev;
+    prev=head;
+    head=ne;
+    return reverseLink(head,prev);
+}
     ListNode* reverseList(ListNode* head) {
         ListNode* prev=NULL;
-        while(head){
-            ListNode* ne=head->next;
-            head->next=prev;
-            prev=head;
-            head=ne;
-        }
-        return prev;
+        return reverseLink(head,prev);
     }
 };
